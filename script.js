@@ -1,4 +1,4 @@
-const emojis = ['🍎', '🍌', '🍇', '🍉', '🍒', '🍓', '🍍', '🥝'];
+const emojis = ['🍎', '🍩', '🍇', '🍉', '🌸', '🍓', '🍍', '🥝'];
 const cardsArray = [...emojis, ...emojis]; // duplicate for pairs
 let flippedCards = [];
 let matchedCards = 0;
